@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white">#ffffff</color>
+    <color name="theme_green">#44BF17</color>
+    <color name="theme_color">#56575B</color>
+    <color name="theme_red">#E43425</color>
+    <color name="background_tab_pressed">#6633B5E5</color>
+    <color name="gray">#BFBFBF</color>
+
+    <!-- 调色板开始 -->
+    <color name="red">#E42E16</color>
+    <color name="yellow">#FDDA42</color>
+    <color name="green">#8ECA08</color>
+    <color name="blue">#199DEF</color>
+    <color name="pink">#FE595D</color>
+    <color name="darkblue">#395996</color>
+    <color name="magenta">#FD6596</color>
+    <color name="darkgreen">#00C900</color>
+    <color name="orange">#FD5A31</color>
+    <color name="lightblue">#5682B1</color>
+    <color name="black">#000000</color>
+    <!-- 调色板结束 -->
+
+</resources>
